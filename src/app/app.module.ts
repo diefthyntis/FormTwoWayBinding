@@ -17,4 +17,8 @@ import { FormsModule } from '@angular/forms';
   providers: [],
   bootstrap: [AppComponent]
 })
+
+
+// FormsModule permet d'utiliser les formulaires de type TEMPLATE
+
 export class AppModule { }
